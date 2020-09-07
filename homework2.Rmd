@@ -1,0 +1,52 @@
+---
+title: "Homework 2"
+output: html_document
+author: "Your Name"
+---
+
+## Paper
+
+Read this blog post:
+
+https://simplystatistics.org/2018/06/08/a-first-look-at-recently-released-official-puerto-rico-death-count-data/
+
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of the blog post highlighting what you consider to be the key parts of the analysis. 
+
+## Audience
+
+Delete this text and answer who you think the target audience of this blog post is? 
+
+## Question Type
+
+Delete this text and answer what kind of question (descriptive, exploratory, inferenential, predictive, casual, or mechanistic) is this blog post trying to answer? 
+
+## Question
+
+Delete this text and answer what is the main question the blog post is trying to answer? 
+
+## Structure
+
+Delete this text and answer what are the main sections of the blog post (if any)? How do they support (or not) the answer to the question? 
+
+## Comparison
+
+Recall the paper from last week: https://www.nejm.org/doi/full/10.1056/NEJMsa1803972. Delete this text and compare the differences you observe between the 
+two analyses. In particular pay attention to:
+
+- Quality of figures
+- Structure of the paper
+- References
+- Figure captions
+- Code inclusion
+- Methods description
+- Data description
+
+## Preferences
+
+Delete this text and answer which style of data analysis do you prefer to read? Which do you find most convincing? 
+
+
+
